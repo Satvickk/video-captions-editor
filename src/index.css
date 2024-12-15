@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body, title {
+    font-family: 'Comfortaa Variable', system-ui;
+    min-height: 100vh;
+    width: "100%";
+    background-color: #000000;
+    color: #ffffff;
+}
